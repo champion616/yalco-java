@@ -2,6 +2,7 @@ package sec03.chap01;
 
 public class Ex04 {
     public static void main(String[] args) {
+
         int a = 1;
         int b = 2;
 
@@ -49,5 +50,6 @@ public class Ex04 {
         int ee = 5 % 2;
         int ff = 6 % 2;
         int gg = 7 % 2;
+
     }
 }

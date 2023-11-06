@@ -2,6 +2,7 @@ package sec03.chap01;
 
 public class Ex01 {
     public static void main(String[] args) {
+
         byte _1b_byte = 1;
         short _2b_short = 2;
         int _4b_int = 3; // ⭐️ 일반적으로 널리 사용
@@ -38,5 +39,6 @@ public class Ex01 {
         //  💡 가독성을 위해 아래와 같이 표현 가능 (자바7부터)
         int _4b_int2 = 123_456_789;
         long _8b_long2 = 123_456_789_123_456_789L;
+
     }
 }
